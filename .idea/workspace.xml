@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f204d87-4b51-428c-822a-3f85d0180cf4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/customscroll.js" afterPath="$PROJECT_DIR$/js/customscroll.js" />
-    </list>
+    <list default="true" id="0f204d87-4b51-428c-822a-3f85d0180cf4" name="Default" comment="" />
     <ignored path="touchScroll.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +32,7 @@
       <file leaf-file-name="customscroll.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/customscroll.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="1" selection-start="2777" selection-end="2777" vertical-scroll-proportion="0.8828932">
+            <state line="78" column="154" selection-start="1971" selection-end="1971" vertical-scroll-proportion="0.18025258">
               <folding />
             </state>
           </provider>
@@ -70,7 +68,7 @@
       <file leaf-file-name="example.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="21" selection-start="17189" selection-end="17189" vertical-scroll-proportion="-28.076923">
+            <state line="8" column="154" selection-start="208" selection-end="208" vertical-scroll-proportion="-5.230769">
               <folding />
             </state>
           </provider>
@@ -300,14 +298,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="21" selection-start="17189" selection-end="17189" vertical-scroll-proportion="-28.076923">
+        <state line="8" column="154" selection-start="208" selection-end="208" vertical-scroll-proportion="-5.230769">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/customscroll.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="1" selection-start="2777" selection-end="2777" vertical-scroll-proportion="0.8828932">
+        <state line="78" column="154" selection-start="1971" selection-end="1971" vertical-scroll-proportion="0.18025258">
           <folding />
         </state>
       </provider>
