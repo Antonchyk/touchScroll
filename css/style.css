@@ -1,0 +1,22 @@
+html,body{
+    height: 100%;
+}
+body{
+    font-family: arial;
+}
+
+
+/* custom scroll basic styles============================================================================= */
+.wrapper {
+    overflow: hidden;
+    height: 100%;
+    position: relative;
+}
+.content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    -webkit-transition: 0s;
+    overflow: hidden;
+    width: 100%;
+}
