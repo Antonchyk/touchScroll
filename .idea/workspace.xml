@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f204d87-4b51-428c-822a-3f85d0180cf4" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Private\CUSTOMSCROLL\touchScroll\customscroll.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Private\CUSTOMSCROLL\touchScroll\style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example.html" afterPath="$PROJECT_DIR$/example.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/customscroll.js" afterPath="$PROJECT_DIR$/js/customscroll.js" />
     </list>
     <ignored path="touchScroll.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +34,7 @@
       <file leaf-file-name="customscroll.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/customscroll.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="72" selection-start="194" selection-end="194" vertical-scroll-proportion="0.11710677">
+            <state line="114" column="1" selection-start="2777" selection-end="2777" vertical-scroll-proportion="0.8828932">
               <folding />
             </state>
           </provider>
@@ -309,7 +307,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/customscroll.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="72" selection-start="194" selection-end="194" vertical-scroll-proportion="0.11710677">
+        <state line="114" column="1" selection-start="2777" selection-end="2777" vertical-scroll-proportion="0.8828932">
           <folding />
         </state>
       </provider>
