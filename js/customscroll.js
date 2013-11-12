@@ -46,6 +46,7 @@ function Scroll(wrapper) {
         var touch = event.targetTouches[0];
 
         scrollTouchStartY = touch.pageY - parseInt(content.style.webkitTransform.replace(/^.*?\,(.*?)px.*?$/, '$1' ));
+        
         event.stopPropagation();
         event.preventDefault();
 
